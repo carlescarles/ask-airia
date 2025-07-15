@@ -13,11 +13,7 @@
 
     - On Linux:
       ```
-      ~/.config/espanso/match/packages/
-      ```
-    - On macOS:
-      ```
-      ~/Library/Application Support/espanso/match/packages/
+      espanso install ask-airia --git https://github.com/carlescarles/ask-airia --external
       ```
 
 2. **Install dependencies:**  
